@@ -1,8 +1,9 @@
 ## 🏆 FIFAForge: AI-Powered FIFA Player Rating Prediction System
 
 An intelligent machine learning application that predicts **FIFA player overall ratings** using player stats and in-game attributes. Built with regression models, dimensionality reduction (PCA), clustering techniques, and deployed using Flask with MongoDB integration.
+ 
 
-![Dashboard Preview](assets/fifaforge-dashboard.png)  
+🔗 **Live App**: [https://fifaforge1.onrender.com](https://fifaforge1.onrender.com)
 
 ---
 
@@ -83,7 +84,8 @@ python app.py
 # For production (with Gunicorn)
 gunicorn app:app
 ```
-Visit: `http://127.0.0.1:5000/` (locally)
+Visit: `http://127.0.0.1:5000/` (locally)  
+Or live at: [https://fifaforge1.onrender.com](https://fifaforge1.onrender.com)
 
 ---
 
@@ -108,12 +110,10 @@ Visit: `http://127.0.0.1:5000/` (locally)
 **Created by:** Harsh Sharma  
 📧 Email: harshsharma91318@gmail.com  
 🔗 GitHub: [HarshS-12](https://github.com/HarshS-12)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+🔗 LinkedIn: [linkedin.com/in/harsh-sharma-6345a1358](https://linkedin.com/in/harsh-sharma-6345a1358)
 
+---
  
 
  
-
  
-
-> 💡 GitHub Repo: [https://github.com/HarshS-12/FIFAForge](https://github.com/HarshS-12/FIFAForge)
